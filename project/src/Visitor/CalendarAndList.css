@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 2%;
+}
+
+.calendar {
+    flex: 0;
+}
+
+.list {
+    flex: -1;
+    margin-left: 2%;
+}
+
+.scrollable-list {
+    max-height: 200px; 
+    overflow-y: auto; 
+}

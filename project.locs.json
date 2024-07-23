@@ -1,0 +1,1489 @@
+[{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6226d"
+  },
+  "Venue": "Tai Po Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 10,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6226f"
+  },
+  "Venue": "Ping Shan Tin Shui Wai Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 8,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62271"
+  },
+  "Venue": "To Kwa Wan Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 9,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62273"
+  },
+  "Venue": "Tseung Kwan O Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62275"
+  },
+  "Venue": "Tsim Sha Tsui Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62277"
+  },
+  "Venue": "Tsing Yi Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 5,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62279"
+  },
+  "Venue": "Tsuen Wan Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 5,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6227b"
+  },
+  "Venue": "Tsz Wan Shan Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6227d"
+  },
+  "Venue": "Un Chau Street Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6227f"
+  },
+  "Venue": "Wong Nai Chung Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 5,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62281"
+  },
+  "Venue": "Yau Ma Tei Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 9,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62283"
+  },
+  "Venue": "Yiu Tung Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62285"
+  },
+  "Venue": "Yuen Long Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62287"
+  },
+  "Venue": "Tin Shui Wai North Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 3,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62289"
+  },
+  "Venue": "North District Town Hall (Auditorium)",
+  "Latitude": "22.501639",
+  "Longitude": "114.128911",
+  "NumberOfEvents": 23,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6228b"
+  },
+  "Venue": "North District Town Hall (Function Room 2)",
+  "Latitude": "22.501639",
+  "Longitude": "114.128911",
+  "NumberOfEvents": 8,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6228d"
+  },
+  "Venue": "North District Town Hall (Function Room 1)",
+  "Latitude": "22.501639",
+  "Longitude": "114.128911",
+  "NumberOfEvents": 10,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6228f"
+  },
+  "Venue": "Queen Elizabeth Stadium (Arena)",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62291"
+  },
+  "Venue": "Fu Shan Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62293"
+  },
+  "Venue": "Sha Tin Town Hall",
+  "Latitude": "22.38136",
+  "Longitude": "114.18990",
+  "NumberOfEvents": 1,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62295"
+  },
+  "Venue": "Sha Tin Town Hall (Auditorium)",
+  "Latitude": "22.38136",
+  "Longitude": "114.18990",
+  "NumberOfEvents": 9,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62297"
+  },
+  "Venue": "Sha Tin Town Hall (Cultural Activities Hall)",
+  "Latitude": "22.38136",
+  "Longitude": "114.18990",
+  "NumberOfEvents": 5,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62299"
+  },
+  "Venue": "Sha Tin Town Hall (Exhibition Gallery)",
+  "Latitude": "22.38136",
+  "Longitude": "114.18990",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6229b"
+  },
+  "Venue": "Sha Tin Town Hall (Dance Studio)",
+  "Latitude": "22.38136",
+  "Longitude": "114.18990",
+  "NumberOfEvents": 8,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6229d"
+  },
+  "Venue": "Sha Tin Town Hall (Conference Room)",
+  "Latitude": "22.38136",
+  "Longitude": "114.18990",
+  "NumberOfEvents": 24,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6229f"
+  },
+  "Venue": "Sha Tin Town Hall (Lecture Room 1)",
+  "Latitude": "22.38136",
+  "Longitude": "114.18990",
+  "NumberOfEvents": 18,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622a1"
+  },
+  "Venue": "Sha Tin Town Hall (Lecture Room 2)",
+  "Latitude": "22.38136",
+  "Longitude": "114.18990",
+  "NumberOfEvents": 22,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622a3"
+  },
+  "Venue": "Sha Tin Town Hall (Plaza)",
+  "Latitude": "22.38136",
+  "Longitude": "114.18990",
+  "NumberOfEvents": 2,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622a5"
+  },
+  "Venue": "Sha Tin Town Hall (Music Studio)",
+  "Latitude": "22.38136",
+  "Longitude": "114.18990",
+  "NumberOfEvents": 20,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622a7"
+  },
+  "Venue": "Siu Sai Wan Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622a9"
+  },
+  "Venue": "Hong Kong Cultural Centre",
+  "Latitude": "22.29386",
+  "Longitude": "114.17053",
+  "NumberOfEvents": 1,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622ab"
+  },
+  "Venue": "Hong Kong Cultural Centre (Concert Hall)",
+  "Latitude": "22.29386",
+  "Longitude": "114.17053",
+  "NumberOfEvents": 38,
+  "Comments": [
+    {
+      "User": "username",
+      "Comment": "This place is cool",
+      "_id": {
+        "$oid": "657c685ed00ceccd54d64d9d"
+      }
+    },
+    {
+      "User": "username",
+      "Comment": "I love Hong Kong",
+      "_id": {
+        "$oid": "657c6869d00ceccd54d64da2"
+      }
+    }
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622ad"
+  },
+  "Venue": "Hong Kong Cultural Centre (Grand Theatre)",
+  "Latitude": "22.29386",
+  "Longitude": "114.17053",
+  "NumberOfEvents": 16,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622af"
+  },
+  "Venue": "Hong Kong Cultural Centre (Studio Theatre)",
+  "Latitude": "22.29386",
+  "Longitude": "114.17053",
+  "NumberOfEvents": 17,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622b1"
+  },
+  "Venue": "Hong Kong Cultural Centre (Exhibition Gallery)",
+  "Latitude": "22.29386",
+  "Longitude": "114.17053",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622b3"
+  },
+  "Venue": "Hong Kong Cultural Centre (GR3, 8/F, Grand Theatre Backstage)",
+  "Latitude": "22.29386",
+  "Longitude": "114.17053",
+  "NumberOfEvents": 1,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622b5"
+  },
+  "Venue": "Hong Kong Cultural Centre (Foyer Exhibition Areas)",
+  "Latitude": "22.29386",
+  "Longitude": "114.17053",
+  "NumberOfEvents": 7,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622b7"
+  },
+  "Venue": "Aberdeen Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 9,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622b9"
+  },
+  "Venue": "Ap Lei Chau Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622bb"
+  },
+  "Venue": "Butterfly Estate Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 5,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622bd"
+  },
+  "Venue": "Ngau Tau Kok Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622bf"
+  },
+  "Venue": "Fanling South Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622c1"
+  },
+  "Venue": "North Kwai Chung Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622c3"
+  },
+  "Venue": "Hong Kong Film Archive (Cinema)",
+  "Latitude": "22.285056",
+  "Longitude": "114.222075",
+  "NumberOfEvents": 18,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622c5"
+  },
+  "Venue": "Tuen Mun Town Hall (Auditorium)",
+  "Latitude": "22.391810",
+  "Longitude": "113.976771",
+  "NumberOfEvents": 17,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622c7"
+  },
+  "Venue": "Tuen Mun Town Hall (Cultural Activities Hall)",
+  "Latitude": "22.391810",
+  "Longitude": "113.976771",
+  "NumberOfEvents": 9,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622c9"
+  },
+  "Venue": "Tuen Mun Town Hall (Lecture Room 2)",
+  "Latitude": "22.391810",
+  "Longitude": "113.976771",
+  "NumberOfEvents": 12,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622cb"
+  },
+  "Venue": "Tuen Mun Town Hall (Music Studio)",
+  "Latitude": "22.391810",
+  "Longitude": "113.976771",
+  "NumberOfEvents": 15,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622cd"
+  },
+  "Venue": "Tuen Mun Town Hall (Conference Room)",
+  "Latitude": "22.391810",
+  "Longitude": "113.976771",
+  "NumberOfEvents": 16,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622cf"
+  },
+  "Venue": "Tuen Mun Town Hall (Lecture Room (1))",
+  "Latitude": "22.391810",
+  "Longitude": "113.976771",
+  "NumberOfEvents": 8,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622d1"
+  },
+  "Venue": "North Point Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622d3"
+  },
+  "Venue": "Yuen Chau Kok Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 5,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622d5"
+  },
+  "Venue": "Shek Kip Mei Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622d7"
+  },
+  "Venue": "Peng Chau Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 2,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622d9"
+  },
+  "Venue": "Po On Road Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 7,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622db"
+  },
+  "Venue": "Pok Fu Lam Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 3,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622dd"
+  },
+  "Venue": "Ma On Shan Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622df"
+  },
+  "Venue": "Quarry Bay Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622e1"
+  },
+  "Venue": "K11 Art House",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622e3"
+  },
+  "Venue": "Sham Shui Po Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 7,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622e5"
+  },
+  "Venue": "Sham Shui Po Public Library (Hong Kong Central Library Multi-Purpose Display and Reading Area\r\n)",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 1,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622e7"
+  },
+  "Venue": "Sai Kung Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622e9"
+  },
+  "Venue": "Lei Yue Mun Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622eb"
+  },
+  "Venue": "San Po Kong Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 7,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622ed"
+  },
+  "Venue": "Sau Mau Ping Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622ef"
+  },
+  "Venue": "Sha Tau Kok Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622f1"
+  },
+  "Venue": "Kwai Tsing Theatre (Dance Studio)",
+  "Latitude": "22.35665",
+  "Longitude": "114.12623",
+  "NumberOfEvents": 10,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622f3"
+  },
+  "Venue": "Kwai Tsing Theatre (Rehearsal Room)",
+  "Latitude": "22.35665",
+  "Longitude": "114.12623",
+  "NumberOfEvents": 10,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622f5"
+  },
+  "Venue": "Kwai Tsing Theatre (Lecture Room)",
+  "Latitude": "22.35665",
+  "Longitude": "114.12623",
+  "NumberOfEvents": 14,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622f7"
+  },
+  "Venue": "Yuen Long Theatre (Auditorium)",
+  "Latitude": "22.44152",
+  "Longitude": "114.02289",
+  "NumberOfEvents": 18,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622f9"
+  },
+  "Venue": "Yuen Long Theatre (Lecture Room)",
+  "Latitude": "22.44152",
+  "Longitude": "114.02289",
+  "NumberOfEvents": 30,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622fb"
+  },
+  "Venue": "Yuen Long Theatre (Dance Studio)",
+  "Latitude": "22.44152",
+  "Longitude": "114.02289",
+  "NumberOfEvents": 34,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622fd"
+  },
+  "Venue": "Yuen Long Theatre (Rehearsal Room)",
+  "Latitude": "22.44152",
+  "Longitude": "114.02289",
+  "NumberOfEvents": 34,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d622ff"
+  },
+  "Venue": "Yuen Long Theatre (Function Room)",
+  "Latitude": "22.44152",
+  "Longitude": "114.02289",
+  "NumberOfEvents": 24,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62301"
+  },
+  "Venue": "Yuen Long Theatre (Exhibition Corner)",
+  "Latitude": "22.44152",
+  "Longitude": "114.02289",
+  "NumberOfEvents": 3,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62303"
+  },
+  "Venue": "Ngau Chi Wan Civic Centre (Cultural Activities Hall)",
+  "Latitude": "22.334583",
+  "Longitude": "114.208766",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62305"
+  },
+  "Venue": "Ngau Chi Wan Civic Centre (Theatre)",
+  "Latitude": "22.334583",
+  "Longitude": "114.208766",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62307"
+  },
+  "Venue": "Hong Kong City Hall (Concert Hall)",
+  "Latitude": "22.282279",
+  "Longitude": "114.161545",
+  "NumberOfEvents": 10,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62309"
+  },
+  "Venue": "Hong Kong City Hall (Theatre)",
+  "Latitude": "22.282279",
+  "Longitude": "114.161545",
+  "NumberOfEvents": 10,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6230b"
+  },
+  "Venue": "Hong Kong City Hall (Exhibition Hall)",
+  "Latitude": "22.282279",
+  "Longitude": "114.161545",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6230d"
+  },
+  "Venue": "Hong Kong City Hall (Exhibition Gallery)",
+  "Latitude": "22.282279",
+  "Longitude": "114.161545",
+  "NumberOfEvents": 8,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6230f"
+  },
+  "Venue": "Ko Shan Theatre (Theatre)",
+  "Latitude": "22.31368",
+  "Longitude": "114.18556",
+  "NumberOfEvents": 12,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62311"
+  },
+  "Venue": "Ko Shan Theatre (New Wing Auditorium)",
+  "Latitude": "22.31368",
+  "Longitude": "114.18556",
+  "NumberOfEvents": 13,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62313"
+  },
+  "Venue": "Sheung Wan Civic Centre (Exhibition Hall)",
+  "Latitude": "22.28602",
+  "Longitude": "114.14967",
+  "NumberOfEvents": 2,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62315"
+  },
+  "Venue": "Sheung Wan Civic Centre (Lecture Hall)",
+  "Latitude": "22.28602",
+  "Longitude": "114.14967",
+  "NumberOfEvents": 28,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62317"
+  },
+  "Venue": "Sheung Wan Civic Centre (Theatre)",
+  "Latitude": "22.28602",
+  "Longitude": "114.14967",
+  "NumberOfEvents": 9,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62319"
+  },
+  "Venue": "Sheung Wan Civic Centre (Art Studio (1))",
+  "Latitude": "22.28602",
+  "Longitude": "114.14967",
+  "NumberOfEvents": 7,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6231b"
+  },
+  "Venue": "Sheung Wan Civic Centre (Art Studio (2))",
+  "Latitude": "22.28602",
+  "Longitude": "114.14967",
+  "NumberOfEvents": 2,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6231d"
+  },
+  "Venue": "Sheung Wan Civic Centre (Art Studios (1) & (2))",
+  "Latitude": "22.28602",
+  "Longitude": "114.14967",
+  "NumberOfEvents": 9,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6231f"
+  },
+  "Venue": "Sheung Wan Civic Centre (Dance Practice Room)",
+  "Latitude": "22.28602",
+  "Longitude": "114.14967",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62321"
+  },
+  "Venue": "Sheung Wan Civic Centre (Rehearsal Hall)",
+  "Latitude": "22.28602",
+  "Longitude": "114.14967",
+  "NumberOfEvents": 2,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62323"
+  },
+  "Venue": "Sha Tin Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 5,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62325"
+  },
+  "Venue": "Shek Tong Tsui Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62327"
+  },
+  "Venue": "Shek Wai Kok Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62329"
+  },
+  "Venue": "Sheung Shui Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 7,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6232b"
+  },
+  "Venue": "Shui Wo Street Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 8,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6232d"
+  },
+  "Venue": "Shun Lee Estate Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6232f"
+  },
+  "Venue": "Smithfield Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 3,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62331"
+  },
+  "Venue": "South Kwai Chung Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 8,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62333"
+  },
+  "Venue": "South Lamma Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 2,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62335"
+  },
+  "Venue": "Stanley Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 3,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62337"
+  },
+  "Venue": "Tai Hing Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 5,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62339"
+  },
+  "Venue": "Tai Kok Tsui Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6233d"
+  },
+  "Venue": "Chai Wan Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6233f"
+  },
+  "Venue": "Cheung Chau Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62341"
+  },
+  "Venue": "City Hall Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 12,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62343"
+  },
+  "Venue": "Electric Road Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62347"
+  },
+  "Venue": "Fa Yuen Street Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 7,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62349"
+  },
+  "Venue": "Fanling Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 7,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6234b"
+  },
+  "Venue": "Hong Kong Central Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 26,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6234d"
+  },
+  "Venue": "Hong Kong Central Library (G/F Lecture Theatre)",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 8,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6234f"
+  },
+  "Venue": "Hong Kong Central Library (G/F Exhibition Gallery)",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62351"
+  },
+  "Venue": "Hung Hom Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 5,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62353"
+  },
+  "Venue": "Kowloon City Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 5,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62355"
+  },
+  "Venue": "Kowloon Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 12,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62357"
+  },
+  "Venue": "Hong Kong Science Museum (Lecture Hall)",
+  "Latitude": "22.30113",
+  "Longitude": "114.17761",
+  "NumberOfEvents": 2,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62359"
+  },
+  "Venue": "Lai Chi Kok Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 5,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6235b"
+  },
+  "Venue": "Auditorium, Sha Tin Town Hall",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 1,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6235d"
+  },
+  "Venue": "Lam Tin Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 7,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6235f"
+  },
+  "Venue": "Lek Yuen Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 5,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62361"
+  },
+  "Venue": "Hong Kong Coliseum (Arena)",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 3,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62363"
+  },
+  "Venue": "Tiu Keng Leng Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62365"
+  },
+  "Venue": "Lockhart Road Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62367"
+  },
+  "Venue": "Lok Fu Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62369"
+  },
+  "Venue": "Lung Hing Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 4,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6236b"
+  },
+  "Venue": "Mui Wo Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 2,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6236d"
+  },
+  "Venue": "Ngau Chi Wan Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 7,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6236f"
+  },
+  "Venue": "North Lamma Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 2,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62371"
+  },
+  "Venue": "Tuen Mun Town Hall (Exhibition Gallery)",
+  "Latitude": "22.391810",
+  "Longitude": "113.976771",
+  "NumberOfEvents": 2,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62373"
+  },
+  "Venue": "Tuen Mun Town Hall (Dance Studio)",
+  "Latitude": "22.391810",
+  "Longitude": "113.976771",
+  "NumberOfEvents": 21,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62375"
+  },
+  "Venue": "Black Box Theatre, Kwai Tsing Theatre",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 2,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62377"
+  },
+  "Venue": "Tuen Mun Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 7,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d6233b"
+  },
+  "Venue": "Tai O Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 2,
+  "Comments": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c64f3d00ceccd54d62345"
+  },
+  "Venue": "Tung Chung Public Library",
+  "Latitude": "",
+  "Longitude": "",
+  "NumberOfEvents": 6,
+  "Comments": [],
+  "__v": 0
+}]

@@ -1,0 +1,51 @@
+{
+  "name": "project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "crypto-js": "^4.2.0",
+    "crypto.js": "^3.1.2",
+    "esbuild": "^0.14.13",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "load-google-maps-api": "^2.0.2",
+    "mdb-react-ui-kit": "^7.0.0",
+    "mongoose": "^8.0.3",
+    "mongoose-sequence": "^5.3.1",
+    "react": "^18.2.0",
+    "react-calendar": "^4.7.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.20.0",
+    "react-scripts": "^3.0.1",
+    "web-vitals": "^2.1.4",
+    "xml2js": "^0.6.2"
+  },
+  "scripts": {
+    "build:client": "esbuild src/index.jsx --bundle --outfile=dist/bundle.js --loader:.js=jsx",
+    "build:server": "esbuild server/server.jsx --bundle --outfile=build/server.js --platform=node",
+    "build": "npm run build:client && npm run build:server",
+    "start": "node ./build/server.js",
+    "aio": "npm run build && npm run start"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

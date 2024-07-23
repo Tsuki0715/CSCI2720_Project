@@ -1,0 +1,45 @@
+div.slideshow-container {
+    background-color: rgb(74, 10, 193);
+}
+
+div.slideshow {
+    margin: 1% auto;
+    margin-bottom: 2%;
+    overflow: hidden;
+    max-width: 1000px;
+    background-color: rgb(74, 10, 193);
+}                                                               
+
+div.slideshowSlider {
+    white-space: nowrap;
+    transition: ease 2000ms;
+    background-color: rgb(74, 10, 193);
+    display: flex;
+    align-items: flex-start;
+}
+
+.slide {
+    flex: 0 0 100%;
+    max-width: 100%;
+    height: 500px;
+    background-color: rgb(74, 10, 193);
+    object-fit: contain;
+}
+
+.slideshowDots {
+    text-align: center;
+}
+
+.slideshowDot {
+    display: inline-block;
+    height: 15px;
+    width: 15px;
+    border-radius: 80%;
+    cursor: pointer;
+    margin: 15px 7px 0px;
+    background-color: grey;
+}
+
+.slideshowDot.active {
+    background-color: rgb(62, 62, 207);
+}

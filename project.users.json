@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "657c651ad00ceccd54d627c5"
+  },
+  "role": 10,
+  "username": "username",
+  "password": "7c6a180b36896a0a8c02787eeafb0e4c",
+  "favLoc": [
+    "Hong Kong Cultural Centre (Concert Hall)",
+    "Sheung Wan Civic Centre (Lecture Hall)",
+    "Yuen Long Theatre (Lecture Room)"
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657c6546d00ceccd54d627c8"
+  },
+  "role": 99,
+  "username": "admin",
+  "password": "dc6798489ae815ac842634d16599b5c1",
+  "favLoc": [],
+  "__v": 0
+}]
